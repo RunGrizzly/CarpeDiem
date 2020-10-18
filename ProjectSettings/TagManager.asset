@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Finger
   layers:
   - Default
   - TransparentFX
@@ -13,6 +14,7 @@ TagManager:
   - UI
   - 
   - 
+  - Clothes
   - 
   - 
   - 
@@ -35,8 +37,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - PostProcessing
   m_SortingLayers:
   - name: Default
     uniqueID: 0
